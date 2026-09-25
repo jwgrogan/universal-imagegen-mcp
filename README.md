@@ -32,7 +32,7 @@ In `opencode.jsonc`:
       "imagegen": {
         "type": "local",
         "command": ["node", "dist/index.js"],
-        "cwd": "C:/Users/groga/OneDrive/OneNote/Default Project/imagegen-mcp",
+        "cwd": "C:/Users/groga/Documents/GitHub/universal-imagegen-mcp",
         "environment": {
           "VENICE_API_KEY": "{env:VENICE_API_KEY}",
           "OPENROUTER_API_KEY": "{env:OPENROUTER_API_KEY}",
